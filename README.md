@@ -12,8 +12,13 @@ Python is the most popular language for AI, and it's beginner-friendly! Start wi
 - **Basic Data Structures**: Lists, tuples, dictionaries, and sets.
 
 **Resources**:
-- [Python for Beginners (Video Course)](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+- [Python lessons from W3School](https://www.w3schools.com/python/)
 - [Python Documentation](https://docs.python.org/3/tutorial/)
+  
+**Video Tutorials**:
+- [Python for Beginners (English)](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+- [Python For Beginners(Hindi)](https://www.youtube.com/watch?v=UrsmFxEIp5k)
+  
 
 ## 2. **Learn Basic Python Libraries for AI**
 
@@ -24,9 +29,14 @@ Once you're comfortable with Python, move on to learning essential libraries for
 - **Matplotlib/Seaborn**: For data visualization.
 
 **Resources**:
-- [NumPy Tutorial](https://numpy.org/doc/stable/user/quickstart.html)
+- [NumPy Documentation](https://numpy.org/doc/stable/user/quickstart.html)
 - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/index.html)
-- [Matplotlib Tutorial](https://matplotlib.org/stable/tutorials/introductory/pyplot.html)
+- [Matplotlib Documentation](https://matplotlib.org/stable/tutorials/introductory/pyplot.html)
+
+**Video Tutorials**:
+- [NumPy Tutorial](https://www.youtube.com/watch?v=QUT1VHiLmmI)
+- [Pandas Tutorial](https://www.youtube.com/watch?v=PfVxFV1ZPnk)
+- [Matplotlib Tutorial](https://www.youtube.com/watch?v=czQO1_GEEos)
 
 ## 3. **Introduction to Machine Learning**
 
@@ -39,6 +49,10 @@ Before diving into AI, it's important to understand the basics of Machine Learni
 **Resources**:
 - [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course)
 - [Coursera - Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+
+**Video Tutorials**:
+- [ML Algorithms(English)](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
+- [ML Algorithms(Hindi)](https://www.youtube.com/playlist?list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ)
 
 ## 4. **Explore Deep Learning**
 
@@ -64,20 +78,7 @@ Apply what you've learned by working on simple AI projects:
 **Resources**:
 - [Kaggle Datasets for Practice](https://www.kaggle.com/datasets)
 - [Project-Based Learning for AI](https://realpython.com/tutorials/projects/)
+  
 
-## 6. **Stay Motivated & Keep Learning**
 
-Learning AI is a marathon, not a sprint. Here are some tips to stay motivated:
-
-- **Join Communities**: Participate in online forums, join AI communities on Reddit or Stack Overflow.
-- **Follow AI Blogs/YouTube Channels**: Keep up with the latest trends and tutorials.
-- **Experiment & Innovate**: Don't be afraid to experiment with new ideas or projects.
-
-**Resources**:
-- [r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
-- [Towards Data Science](https://towardsdatascience.com/)
-
----
-
-Remember, the journey of learning AI is as important as the destination. Take it one step at a time, and don't hesitate to seek help when needed. You're not alone in this journey—there's a whole community of learners and professionals ready to support you. Happy learning!
 
